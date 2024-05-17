@@ -15,9 +15,8 @@
 2. Установите необходимые библиотеки:
 
 ```bash
-pip install numpy scipy matplotlib wfdb beautifulsoup4
+pip install numpy scipy matplotlib wfdb beautifulsoup4 urllib3 glob2 h5py tqdm requests pandas tensorflow biosppy scikit-learn
 ```
-
 ## Использование
 
 ### Загрузка данных
